@@ -1,0 +1,2 @@
+git clone https://github.com/azizsabbah/LinuxMacChanger.git
+python new_mac_changer -h 
